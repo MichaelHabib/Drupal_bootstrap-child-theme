@@ -1,0 +1,11 @@
+{
+    "name": "michaelhabib/drupal_bootstrap_child-theme",
+    "type": "drupal-theme",
+    "authors": [
+        {
+            "name": "Michael Habib",
+            "email": "admin@designerx.com.au"
+        }
+    ],
+    "require": {}
+}
